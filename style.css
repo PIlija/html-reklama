@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    
+}
+
+
+
+h1{
+    color: whitesmoke;
+    
+}
+.jedan{
+    border: 8px solid yellow;
+    
+    p{
+        color: whitesmoke ;
+        text-align: center;
+    }
+
+    text-align: center;
+ font-family: "Libre Baskerville", serif;;
+}
+
